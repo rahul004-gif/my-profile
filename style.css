@@ -127,6 +127,20 @@ nav a.active{
         color: #f40909;
     }
 
+
+    /*skills section*/
+    #skills {
+        color: aliceblue;
+        font-size:2rem ;
+        margin-top: 2rem;
+        padding: 20rem;
+    }
+
+    
+
+
+
+
     .home-img img{
         border-radius: 50%;
     }
