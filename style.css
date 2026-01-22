@@ -136,6 +136,15 @@ nav a.active{
         padding: 10rem;
     }
 
+    /*education section*/
+    #education {
+        background-color: #12000046;
+        color: #e9f0f7;
+        font-size: 2rem ;
+        margin-top: 2rem;
+        padding: 10rem;
+    }   
+
     
 
 
